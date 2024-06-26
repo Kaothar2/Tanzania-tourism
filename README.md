@@ -28,7 +28,7 @@ Before feeding the data into the machine learning model, extensive data preproce
 
  ## Machine Learning Model 
  The tanzania toursit segmentation is built using an unsupervised machine learning approach. 
- - I applied dimensionality reduction specifically the principal component analysis (pca) to reduce the dimensions of a large dataset, increasing the interpreatblilty and at the same minimizing information loss
+ - I applied dimensionality reduction specifically the principal component analysis (pca) to reduce the dimensions of a large dataset, increasing the interpreatablilty and at the same minimizing information loss
  - Applied clustering algorithms K-Means to segment the tourists into distinct groups based on their travel and spending behaviors.
  - Used the Elbow method and Silhouette scores to determine the optimal number of clusters
  - Analyzed and interpreted each cluster to profile the different tourist segments.
